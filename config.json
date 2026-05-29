@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifypelete",
+        "uuid": 896789,
+        "checksum": "r5lmv8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
